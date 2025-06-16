@@ -1,0 +1,1 @@
+tiktok-domain-verification=your_verification_token_here
